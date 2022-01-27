@@ -1,0 +1,29 @@
+.encabezado {
+    /* Comentarios en CSS */
+    font-size: 72px; /* Tamaño de fuente */
+    color: cadetblue; /* Color de fuente */
+    background-color: #fbff24; /* Color de fondo */
+    text-align: center;
+    text-transform: lowercase;
+}
+body{
+    background-color: #e1e1e1;
+}
+#texto {
+    color: blue;
+    background-color: red;
+    font-size: 24px;
+    font-style: italic;
+}
+.texto {
+    color: white;
+    background-color: black;
+}
+p {
+    color: white;
+    background-color: dimgray;
+}
+p {
+    color: yellow;
+    background-color: teal;
+}

@@ -1,0 +1,44 @@
+body {
+    background-color: #bec8e4;
+}
+
+h1 {
+    text-align: end;
+    font-weight: bold;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-size: large;
+    font-weight: bolder;
+}
+
+.mayor {
+    font-size: xx-large;
+}
+
+#rojo {
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.verde {
+    color: green;
+    background-color: white;
+    font-style: italic;
+}
+
+.naranja {
+    color: orangered;
+    font-weight: bold;
+}
+.numero {
+    color: orange;
+}
+.cursiva {
+    font-style: italic;
+    text-align: center;
+}
+p{
+    text-indent: 40px;
+}

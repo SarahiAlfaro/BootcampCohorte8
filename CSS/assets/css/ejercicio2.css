@@ -1,0 +1,41 @@
+body {
+    background-color: #1c6860;
+}
+h1 {
+    color: white;
+}
+
+.caja {
+    margin-bottom: 10px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+.blanco {
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: white;
+    border: 5px solid black;
+    border-radius: 20px;
+    margin-bottom: 10;
+}
+.cafe {
+    margin-right: 700px;
+    background-color: #d18046;
+    border: 10px solid brown;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.naranja {
+    margin-left: 700px;
+    background-color: orange;
+    border: 10px solid orangered;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.azul {
+    margin-right: 200px;
+    margin-left: 200px;
+    background-color: #2a2afa;
+    border: 10px dashed #6a7c96;
+}

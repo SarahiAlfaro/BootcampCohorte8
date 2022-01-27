@@ -1,0 +1,27 @@
+form {
+    margin-left: 25%;
+    margin-right: 25%;
+    border: 20px solid #b5c9e4;
+    border-radius: 20px;
+}
+
+fieldset {
+    background-color: green;
+}
+label {
+    color: white;
+    width: 100px;
+    display: inline-block;
+    margin-bottom: 5px;
+    margin-left: 50px;
+}
+h4 {
+    color: white;
+}
+input {
+    border: 1px solid red;
+    width: 200px;
+}
+p{
+    color: white;
+}

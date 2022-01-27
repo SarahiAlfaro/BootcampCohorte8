@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.menu {
+    background-color: #e48b8b;
+    height: 50px;
+    
+}
+
+.menu ul {
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.menu .elemento {
+    display: inline;
+    margin: 0 20px;
+}
+
+.elemento a {
+    font-size: 24px;
+    color: aliceblue;
+    text-decoration: none;
+    line-height: 50px;
+    font-family: 'Oswald', sans-serif;
+    transition: color 0.5s;
+}
+.elemento a:hover {
+    color: gray;
+    font-size: 30px;
+}
+
+

@@ -1,0 +1,20 @@
+body {
+    background-color: #109c6d;
+}
+
+.blanco {
+    color: white;
+    font-style: italic;
+}
+
+.beige {
+    color: wheat;
+}
+
+.amarillo {
+    color: rgb(248, 202, 52);
+}
+
+.rosa {
+    color: #db356c;    
+}

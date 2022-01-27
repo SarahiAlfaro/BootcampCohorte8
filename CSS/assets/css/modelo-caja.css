@@ -1,0 +1,37 @@
+body {
+    /* background-image: url(https://cdn.shopify.com/s/files/1/0013/1006/4704/files/TILE_tree-blossom-back-large_x800.png?v=1616408615); */
+    /*background-repeat: no-repeat;*/
+}
+
+.title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.subtitle {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.caja {
+    width: 300px;
+    height: 300px;
+    /*margin: 20px;*/
+    margin-bottom: 20px;
+    margin: 20px;
+    font-size: 50px;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+.rojo {
+    /* background-color: red; */
+    border: 5px solid red;
+    font-size: 100px;
+}
+.verde {
+    /* background-color: green; */
+    border: 5px solid green;
+}
+.azul {
+    /* background-color: blue; */
+    border: 5px solid blue;
+}

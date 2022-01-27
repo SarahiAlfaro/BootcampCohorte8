@@ -1,0 +1,34 @@
+body {
+    background-color: turquoise;
+}
+h1 {
+    text-align: center;
+}
+table, tr, th, td {
+    border: 1px solid black;
+    
+}
+table {
+    margin: auto;
+}
+.rojo {
+     color: red;
+}
+.cursiva {
+     font-style: italic;
+}
+.fnaranja {
+     background-color: #f7903c;
+}
+.bold {
+     font-weight: bold;
+}
+.amarillo {
+     color: yellow;
+}
+.fnegro {
+     background-color: black;
+}
+.fverde {
+     background-color: yellowgreen;
+}

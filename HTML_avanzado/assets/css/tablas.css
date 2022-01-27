@@ -1,0 +1,9 @@
+table, tr, th, td {
+    border: 1px solid black;
+    background-color: tomato;
+    border-radius: 20px;
+}
+
+table {
+    background-color: yellow;
+}
